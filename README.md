@@ -1,4 +1,7 @@
-# RNTemplate
+# React Native Template
+
+### Usage:
+```npx react-native init <Project Name> --template https://github.com/ujjwal-techahead-personal/RNTemplate.git```
 
 React Native Template with Navigation, Redux, Saga, Reactotron, EncryptedStorage
 
